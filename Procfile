@@ -1,0 +1,1 @@
+web: java -Dspring.profiles.active=heroku -jar build/libs/foodbud-1.0.0-SNAPSHOT.jar
